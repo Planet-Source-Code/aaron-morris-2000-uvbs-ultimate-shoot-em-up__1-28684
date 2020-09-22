@@ -1,0 +1,9 @@
+frmShoot = 163, 71, 858, 656, , 22, 22, 717, 607, C
+modSelections = 220, 220, 915, 805, 
+modAPIs = 176, 176, 871, 761, 
+modSounds = 198, 198, 893, 783, 
+modTile = 242, 242, 937, 827, 
+modfonts = 22, 22, 717, 607, 
+modKeyHandler = 176, 176, 871, 761, 
+modGameEvents = 154, 154, 849, 739, Z
+modAI = 220, 220, 859, 742, 
